@@ -4,8 +4,8 @@ Gelirlerimizi ve giderlerimizi görebildiğimiz uygulamamız Entity Framework ve
 <br/>
 ## Login Sayfası 
 <br/>
-![Login](https://github.com/Beyzakslr/FinancialCrm/blob/main/login.png?raw=true)
-
+<img src="https://github.com/Beyzakslr/FinancialCrm/blob/main/login.png?raw=true" alt="Login" width="400">
+<br/>
 ## Dashboard Sayfası 
 <br/>
-[dashboard](https://github.com/Beyzakslr/FinancialCrm/issues/1)
+
